@@ -1,0 +1,23 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+ul{
+    display: flex;
+    top: 0%;
+    bottom: 0%;
+    position:absolute;
+    width: 25%;
+    margin-top: 2%;
+    justify-content:space-between ;
+    margin-left: 63%;
+   
+
+}
+
+
+#hm{
+   
+    font-weight: bolder;
+    text-decoration:underline;
+ }
